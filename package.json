@@ -1,0 +1,25 @@
+{
+  "name": "singleton-event-emitter",
+  "version": "0.0.1",
+  "description": "A singleton instance of node EventEmitter. If it is required in multiple node packages, it will return the same instance of EvenetEmitter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BartaG512/singleton-event-emitter.git"
+  },
+  "keywords": [
+    "event",
+    "emitter",
+    "global",
+    "singleton"
+  ],
+  "author": "Barta Gergo (barta.gergo64@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BartaG512/singleton-event-emitter/issues"
+  },
+  "homepage": "https://github.com/BartaG512/singleton-event-emitter#readme"
+}
