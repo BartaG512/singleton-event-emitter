@@ -19,7 +19,7 @@ singletonEvenetEmitter.emit('someEvent')
 // listener.js
 const singletonEvenetEmitter = require('singleton-evenet-emitter');
 singletonEvenetEmitter.on('someEvent', () => {
-	console.log("someEvenet");
+	console.log("someEvent");
 })
 ```
 
